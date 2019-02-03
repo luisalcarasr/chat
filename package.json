@@ -1,0 +1,26 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Chat with socket.io and NES.css",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisalcarasr/chat.git"
+  },
+  "author": "Luis Alcaras",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/luisalcarasr/chat/issues"
+  },
+  "homepage": "https://github.com/luisalcarasr/chat#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nes.css": "^1.0.0",
+    "nodemon": "^1.18.9",
+    "socket.io": "^2.2.0"
+  }
+}
